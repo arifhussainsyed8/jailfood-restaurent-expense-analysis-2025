@@ -7,10 +7,9 @@ Financial analysis of JF's 2025 monthly sales, expenses, and profitability, base
 ```
 JF-2025-Expense-Analysis/
 ├── README.md          # This file
-├── REPORT.md           # Full analysis report (chaptered)
+├── JF_2025_Expense_Analysis_Report.pdf           # Full analysis report (chaptered)
 ├── data/
 │   └── JF_2025_Monthly_Expenses.xlsx   # Source workbook
-└── .gitignore
 ```
 
 ## Summary
