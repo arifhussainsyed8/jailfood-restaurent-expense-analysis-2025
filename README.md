@@ -10,7 +10,7 @@ JF-2025-Expense-Analysis/
 ├── 2025-Monthly-Expense-and-Profitability-Analysis.pdf        # Presentation file
 ├── JF_2025_Expense_Analysis_Report.pdf           # Full analysis report (chaptered)
 ├── data/
-│   └── JF_2025_Monthly_Expenses.xlsx   # Source workbook
+    └── JF_2025_Monthly_Expenses.xlsx   # Source workbook
 ```
 
 ## Summary
