@@ -7,11 +7,15 @@
 Financial analysis of Jailfood Restaurant's 2025 monthly sales, expenses, and profitability, based on a year-long Excel tracking workbook. I helped him clean and organize the data to understand where money was going and why certain months performed poorly.
 
 ## Repository Structure
-JF-2025-Expense-Analysis/
+#JF-2025-Expense-Analysis/
 ├── README.md # This file
+├
 ├── 2025-Monthly-Expense-and-Profitability-Analysis.pdf # Presentation file
+├
 ├── JF_2025_Expense_Analysis_Report.pdf # Full analysis report (chaptered)
+├
 ├── data/
+├
 └── JF_2025_Monthly_Expenses.xlsx # Source workbook
 
 
