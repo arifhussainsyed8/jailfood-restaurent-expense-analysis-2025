@@ -7,6 +7,8 @@
 Financial analysis of Jailfood Restaurant's 2025 monthly sales, expenses, and profitability, based on a year-long Excel tracking workbook. I helped him clean and organize the data to understand where money was going and why certain months performed poorly.
 
 ## Repository Structure
+```text
+
 #JF-2025-Expense-Analysis/
 ├── README.md # This file
 ├
@@ -18,7 +20,7 @@ Financial analysis of Jailfood Restaurant's 2025 monthly sales, expenses, and pr
 ├
 └── JF_2025_Monthly_Expenses.xlsx # Source workbook
 
-
+```
 ## Summary
 
 - **Net result (2025):** ₹331,496 net loss, average margin -7.8%
